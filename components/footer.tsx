@@ -119,7 +119,7 @@ export function Footer() {
                 href="/#features"
                 className="text-base text-gray-300 hover:text-white transition-colors"
               >
-                Why chose us
+                Why Choose Us
               </Link>
               <Link
                 href="/#how-it-works"

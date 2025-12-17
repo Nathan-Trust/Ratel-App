@@ -67,7 +67,7 @@ export function Navbar() {
             onClick={() => scrollToSection("about")}
             className="text-base font-medium text-gray-900 hover:text-[#0D9488] transition-colors"
           >
-            Why Chose Us?
+            Why Choose Us?
           </button>
           <button
             onClick={() => scrollToSection("how-it-works")}
@@ -169,7 +169,7 @@ export function Navbar() {
             onClick={() => scrollToSection("about")}
             className="text-left text-base font-medium text-gray-900 hover:text-[#0D9488] transition-colors py-2"
           >
-            Why Chose Us?
+            Why Choose Us?
           </button>
           <button
             onClick={() => scrollToSection("how-it-works")}
