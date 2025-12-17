@@ -152,7 +152,7 @@ export function Navbar() {
 
       {/* Mobile Menu */}
       <div
-        className={`lg:hidden fixed top-[72px] left-0 right-0 bg-white shadow-lg transition-all duration-300 ease-in-out ${
+        className={`lg:hidden fixed top-[64px] md:top-[88px] left-0 right-0 bg-white shadow-lg transition-all duration-300 ease-in-out ${
           isMobileMenuOpen
             ? "max-h-screen opacity-100"
             : "max-h-0 opacity-0 overflow-hidden"
