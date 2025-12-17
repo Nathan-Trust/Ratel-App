@@ -41,7 +41,9 @@ export function Footer() {
               </Link>
 
               <Link
-                href="#"
+                href="https://www.instagram.com/officialratel?igsh=MTFlcWZnMDJtM2d1eQ=="
+                target="_blank"
+                rel="noopener noreferrer"
                 className="flex h-10 w-10 items-center justify-center rounded-full text-white transition-colors hover:bg-gray-700"
                 aria-label="Instagram"
               >
@@ -117,7 +119,7 @@ export function Footer() {
                 href="/#features"
                 className="text-base text-gray-300 hover:text-white transition-colors"
               >
-                Why chose us
+                Why Choose Us
               </Link>
               <Link
                 href="/#how-it-works"
