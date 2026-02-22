@@ -2,6 +2,7 @@ import Image from "next/image";
 
 export function AboutUsSection() {
   return (
+    // about us section
     <section id="about" className="w-full bg-white px-8 py-20">
       <div className="mx-auto grid max-w-[1440px] grid-cols-1 gap-12 lg:grid-cols-2 lg:gap-16 items-center">
         {/* Left side - Image */}
